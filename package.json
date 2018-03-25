@@ -1,0 +1,19 @@
+{
+  "name": "ciudad-accesible",
+  "version": "1.0.0",
+  "description": "Web directory to provide up-to-date information for accessible sites in the city of Caracas, Venezuela",
+  "repository": "git@github.com:en-plural/ciudad-accesible.git",
+  "license": "AGPL-3.0-only",
+  "private": false,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
