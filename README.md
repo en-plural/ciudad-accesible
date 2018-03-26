@@ -4,6 +4,7 @@
 
 Web directory to provide up-to-date information for accessible sites in the city of Caracas, Venezuela. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![CircleCI](https://circleci.com/gh/en-plural/ciudad-accesible.svg?style=svg)](https://circleci.com/gh/en-plural/ciudad-accesible)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 Puedes leer la versión en español de este documento haciendo click [acá](./README.es.md)
